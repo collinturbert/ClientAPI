@@ -1,4 +1,4 @@
-This project was my first Restful API. I created it as a practice project but it is setup to mimic a real world project that I'm working on.
+This project was created to practice creating Restful API's using Django. It is setup to mimic a real world project that I'm working on with a much larger dataset.
 
 Tools
   1.	Azure Data Studio
